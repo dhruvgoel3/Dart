@@ -1,5 +1,5 @@
 import 'dart:io';
-
+// Guessing thr year that it is odd or even
 void main()
 {
       print("Enter Year:");
